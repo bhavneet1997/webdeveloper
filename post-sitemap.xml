@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://https://bhavneet1997.github.io/webdeveloper/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://bhavneet1997.github.io/webdeveloper/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://https://bhavneet1997.github.io/webdeveloper/blog/</loc>
+		<loc>https://bhavneet1997.github.io/webdeveloper/blog/</loc>
 		<lastmod>2024-12-10T11:35:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://https://bhavneet1997.github.io/webdeveloper/why-every-business-needs-a-website/</loc>
+		<loc>https://bhavneet1997.github.io/webdeveloper/why-every-business-needs-a-website/</loc>
 		<lastmod>2024-12-10T11:35:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://https://bhavneet1997.github.io/webdeveloper/wp-content/uploads/2024/12/hand-3108158_640.jpg</image:loc>
+			<image:loc>https://bhavneet1997.github.io/webdeveloper/wp-content/uploads/2024/12/hand-3108158_640.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://https://bhavneet1997.github.io/webdeveloper/wp-content/uploads/2024/12/software-developer-6521720_640.jpg</image:loc>
+			<image:loc>https://bhavneet1997.github.io/webdeveloper/wp-content/uploads/2024/12/software-developer-6521720_640.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
